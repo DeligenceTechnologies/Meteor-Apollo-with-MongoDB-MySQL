@@ -1,0 +1,11 @@
+body{
+  font-family:Arial;	
+  background-color: grey;
+}
+.panel-default > .panel-heading-custom{
+  background-image: none;
+  background-color: pink;
+  color: brown;
+  /*background-color: #f07c4a;*/
+  /*color: #ffffff;*/
+}

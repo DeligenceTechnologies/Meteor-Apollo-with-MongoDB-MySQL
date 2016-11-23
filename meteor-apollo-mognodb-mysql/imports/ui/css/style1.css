@@ -1,0 +1,17 @@
+/*body {
+  color: green;
+}
+h4 {
+  color: red;
+  font-weight: bold;
+}
+*/
+body{
+  font-family:"Courier New", Courier, monospace;	
+  background-color: white;
+}
+.panel-default > .panel-heading-custom{
+  background-image: none;
+  background-color: #70A34A;
+  color: #E0482D;
+}
