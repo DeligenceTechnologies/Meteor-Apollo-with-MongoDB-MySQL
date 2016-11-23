@@ -1,0 +1,11 @@
+body{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;	
+  background-color: silver;
+}
+.panel-default > .panel-heading-custom{
+  background-image: none;
+  background-color: #6F3505;
+  color: #2F9BD1;
+  /*background-color: #ed6b71;*/
+  /*color: #ffffff;*/
+}
