@@ -1,4 +1,4 @@
-This is a 'Hello World' Meteor app using Apollo. It uses MySQL as the database and React as the UI framework.
+Here I have extended 'Hello World' Meteor app example using Apollo. Now It uses MySQL & MongoDB as the database and React as the UI framework.
 
 ## Install MySQL
 To run, first install MySQL. On OSX:
