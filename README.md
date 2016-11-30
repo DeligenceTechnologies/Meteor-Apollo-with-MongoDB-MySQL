@@ -6,7 +6,7 @@ Here user can select desired database and can insert any post in same. Inserted 
 
 You can contact us at info@deligence.com in case of any doubt or query.
 
-<img height="520" width="100%" src="https://github.com/DeligenceTechnologies/Meteor-Apollo-with-MongoDB-MySQL/blob/master/meteor-apollo-mognodb-mysql/public/images/apolloApp.png" /><h4 width="300">Main page</h4>
+<img height="520" width="100%" src="https://github.com/DeligenceTechnologies/Meteor-Apollo-with-MongoDB-MySQL/blob/master/meteor-apollo-mognodb-mysql/public/images/apollo-app.png" /><h4 width="300">Main page</h4>
 <br>
 
 
